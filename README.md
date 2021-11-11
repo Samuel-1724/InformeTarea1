@@ -81,29 +81,35 @@ El voltaje, la corriente y la resistencia son las cantidades básicas presentes 
 
 (b) 0.025
 = 25 mA
+
 (c) 0.00000000129
 = 12.9 pA
-23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+***(23) Exprese cada una de las cantidades siguientes por medio de prefijos métricos:***
 (a) 3*〖10〗^(-6)  F
 = 3 μF
+
 (b) 3.3*〖10〗^6  Ω
 =3.3 MΩ  
+
 (c) 350*〖10〗^(-9)  A
 =350 nA  
-25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10: 
+**(25) Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10: **
 a) 7.5 pA
 =7.5*〖10〗^(-12)  A  
 =75*〖10〗^(-13)  A  
+
 (b) 3.3 GHz 
 =3.3*〖10〗^9  Hz  
 =33*〖10〗^8  Hz  
+
 (c) 280 nW 
 =280*〖10〗^(-9)  W  
 =28*〖10〗^(-8)  W  
-27. Realice las conversiones indicadas: 
+***(27) Realice las conversiones indicadas: ***
 (a) 5 mA a μA
 1mA → 〖10〗^(-3) μA   
 5mA=5*〖10〗^(-3) A  
+
  (b) 3200 μW a miliwatts
 1 μW→ 〖10〗^(-3) mW   
 3200 μW=(3200 μW*〖10〗^(-3) mW)/1μW     
@@ -119,20 +125,52 @@ a) 7.5 pA
 1 MW→ 1*〖10〗^3  kW   
 10 MV=(10 MW*〖10〗^3 kW)/1MW
 10 MV=10000 kW
-29. Sume las siguientes cantidades: 
+**(29) Sume las siguientes cantidades: **
 (a) 50 mA + 680 μA
 =50*〖10〗^(-3) A+680*〖10〗^(-6) A
 =0.05068 A
 =50.68*〖10〗^4  mA
+
  (b) 120 kΩ + 2.2 MΩ 
 =120*〖10〗^3 Ω+2.2*〖10〗^6 Ω
 =2320000 Ω
 =2.32 MΩ
+
 c) 0.02 μF + 3300 pF
 =0.02*〖10〗^(-6) F+3300*〖10〗^(-12)
 =0.0233 μF
 
+**4.2. Ejercicios del Capítulo 2**
+**(25) Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento. **
+a) 0.47 Ω
+Amarillo-Violeta-Plata-Dorado
 
+b) 270 K Ω
+Rojo-Violeta-Naranja-Dorado
+
+c) 5.1 M Ω
+Verde-Café-Verde-Dorado
+***(27) Determine las bandas de color para cada uno de los siguientes resistores de 5 bandas. Asuma que cada resistor tiene tolerancia del 1 por ciento. ***
+a) 14.7 Ω 
+Café-Amarillo-Violeta-Dorado-Marrón
+
+b) 39.2 Ω 
+Naranja-Blanco-Rojo-Dorado-Marrón
+
+(c) 9.76 Ω
+Blanco-Violeta-Azul-Plateado-Marrón
+*** (29) ¿Cuál es la resistencia indicada por 4K7?***
+4.7 kΩ
+***(31) Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición ***
+[![r2.png](https://i.postimg.cc/rFSTRtQ9/r2.png)](https://postimg.cc/PPr9BNGL)
+Se dirige hacia la lámpara 2
+
+***(33) En la figura 2-69, solamente hay un circuito en el cual es posible encender todas las lámparas al mismo tiempo. Determine cuál es este circuito***
+[![y4.png](https://i.postimg.cc/1t9syRpK/y4.png)](https://postimg.cc/yJrwPHpJ)
+Puede encender todas las lámparas al mismo tiempo atraves del circuito (b)
+
+***(35) Disponga un arreglo de interruptor mediante el cual se puedan conectar dos fuentes de voltaje (VS1 y VS2) al mismo tiempo a cualquiera de dos resistores (R1 y R2) como sigue: VS1 conectada a R1 y VS2 conectada a R2 o VS1 conectada a R2 y VS2 conectada a R1***
+[![h.png](https://i.postimg.cc/Bv3X10Tj/h.png)](https://postimg.cc/Xr2VTtDW)
 
 
 

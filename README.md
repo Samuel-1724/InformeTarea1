@@ -26,6 +26,19 @@ Un ejemplo: A la luz le lleva 0.0000333564095 segundos recorrer 10 kilómetros e
 **3.2. Capítulo 2: Voltaje, Corriente y Resistencia**
 **3.2.1. Estructura Atómica**
 Todo está compuesto de átomos, y todos los átomos se componen de electrónes, protones y neutrones. El átomo es la particula más pequeña de un elemento (de los 109 elementos). Varios ilustres han representado al átomo a lo largo de los años, y todo ese conocimiento actualmente se concentra para darnes una forma fija del mismo.
+[![Estructura-At-mica.png](https://i.postimg.cc/TYXm27jt/Estructura-At-mica.png)](https://postimg.cc/z3030kch)
+**3.2.2. Categorias de materiales**
+En electrónica se utilizan tres categorías de materiales:
+- **Conductores:** Los materiales conductores son aquellos que permiten el paso de la corriente. Se caracterizan por poseer de uno a tres electrones de valencia en su estructura. La plata es el mejor material conductor, y el cobre es el siguiente.
+- **Semiconductor:** Los materiales semiconductores se clasifican por debajo de los conductores, en cuanto a su capacidad de transportar corriente, porque tienen menos electrones libres que los conductores. Los semiconductores tienen cuatro electrones de valencia en sus estructuras atómicas. Existe el diodo, el transistor y el circuito integrado. El silicio y el germanio son materiales semiconductores comunes.
+- **Aislantes:** Los materiales aislantes son conductores deficientes de la corriente eléctrica. De hecho, los aislantes se utilizan para evitar la corriente donde no es deseada.
+
+**3.2.3. Carga Eléctrica**
+La carga eléctrica es una propiedad elécrica de la materia que existe en virtud de exceso o deficencia de electrones, es simbolizada mediante Q. Los materiales con cargas de polaridad opuesta se atraen entre sí, y los materiales con cargas de la misma polaridad se repelen, entre las cargas actúa una fuerza, evidenciada por la atracción o la repulsión. Esta fuerza, llamada campo eléctrico, se compone de líneas de fuerza invisibles.
+[![Carga-El-ctrica.png](https://i.postimg.cc/zfpgXKS3/Carga-El-ctrica.png)](https://postimg.cc/f3tL83Ph)
+
+**3.2.4. Voltaje, Corriente y Resistencia**
+El voltaje, la corriente y la resistencia son las cantidades básicas presentes en todos los circuitos eléctricos.
 
 
 

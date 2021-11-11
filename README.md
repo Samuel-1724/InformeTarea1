@@ -486,3 +486,7 @@ Posición 2: V1 = Vs, V2 = 0 V
 (c) R1**
 
 [![ui.png](https://i.postimg.cc/kMxsm9nB/ui.png)](https://postimg.cc/yW8cmM3H)
+
+**5. Video**
+
+https://youtu.be/2B55BZIWAiU

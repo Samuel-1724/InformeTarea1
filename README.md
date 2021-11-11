@@ -498,3 +498,11 @@ Posición 2: V1 = Vs, V2 = 0 V
 **5. Video**
 
 https://youtu.be/2B55BZIWAiU
+
+**6. CONCLUSIONES**
+
+Hemos entendido como funcionan las unidades y las formas de medida, al igual que las características que cada una tiene. Gracias a los mapas conceptuales donde podemos visualizar las derivadas de cada meidida e incluso la unidades fundamentales, hemos comprendido su importancia en la actualidad y como podemos utilizar estas para beneficiar nuestros estudios y proyectos. De igual forma comprendimos el uso de la notación científica y cómo puede ser una herramienta importante para minimizar cantidades enormes y establecer un orden en nuestars operaciones; también definimos lo que es la notación del ingeniero y su implementación en las areas eléctricas y electrónicas. 
+
+Comprendimos con detalle los conceptos de Voltaje y su función en un circuito, además de ver como fue descubierta gracias a la estructura atómica. También entendimos lo que es Corriente y la manera en que podemos encontrarla en un circuito. Por último visualizamos la Resistencia y como ayuda a mantener en órden un circuito, además de tener un dominio casi total de los anteriores conceptos. Luego de descubrir las características de cada uno, pudimos contrastar sus definiciones y componentes y dejar claro cual es la diferencia con cada una. 
+
+Al final realizamos algunos ejercicios propuestos con los cuales tuvimos una mejor comprensión de los conceptos antes dichos. 

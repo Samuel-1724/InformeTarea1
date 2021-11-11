@@ -63,6 +63,112 @@ El voltaje, la corriente y la resistencia son las cantidades básicas presentes 
 
 **4.1. Ejercicios del Capítulo 1**
 
+***(1) Exprese cada uno de los números siguientes en notación científica:***
+
+(a) 3000 
+
+= 3x10^3
+
+(b) 75,000 
+
+= 7,5x10^4
+
+(c) 2,000,000 
+
+= 2x10^6 
+
+***(3) Exprese cada uno de los números siguientes en notación científica:***
+
+(a) 8400 
+
+= 8,4x〖10〗^3
+
+(b) 99,000
+
+= 9,9x10^4
+
+(c) 0.2x10^6
+
+= 2x10^5
+
+***(5) Exprese cada uno de los números siguientes en notación 
+científica:***
+
+a) 32x10^3 
+
+= 3,2x10^4 
+
+b) 6800x10^-6 
+
+= 6,8x10^-3 
+
+c) 870x10^8 
+
+= 8,7x10^11 
+
+***(7) Exprese cada uno de los números siguientes como un número 
+decimal regular:***
+
+a)2.5x10^-6 
+
+= 2.5x10^-6 
+
+b) 5.0x10^2 
+
+= 5.0x10^2 
+
+c) 3.9x10^-1 
+
+= 3.9x10^-1
+
+***(9) Sume los números siguientes:***
+
+a) (9,2x10^6) + (3,4x10^7) 
+
+= 4,32 x 10^7 
+
+b) (5 x 10^3) + (8,5 x 10^-1) 
+
+= 5,00085 x 10^5 
+
+c) (5,6 x 10^-8) + (4,6 x 10^-13) 
+
+= 5,600046 x 10^-8 
+
+***(11) Realice las siguientes multiplicaciones:***
+
+a) (5 x 10^3) (4 x 10^5) 
+
+= (5 x 4) 10^8 
+
+= 20 x 10^8 
+
+b) (1.2 x 10^-6 ) (3 x 10^2) 
+
+= (1.2 x 3) 10^-4 
+
+= 3.6 x 10^-4 
+
+c) (2.2 x 10^-9) (7 x 10^-6) 
+
+= (2.2 x 7 ) 10^-15 
+
+= 1.54 x 10^-14 
+
+***(13). Exprese cada uno de los números siguientes en notación de ingeniería:***
+
+(a) 89,000
+
+= 89 x 10^3
+
+(b) 450,000 
+
+= 450 x 10^3 
+
+(c) 12,040,000,000,000
+
+= 12040 x 10^9
+
 ***(15) Exprese cada número en notación de ingeniería:***
 
  (a) 0.000345 
@@ -77,7 +183,7 @@ El voltaje, la corriente y la resistencia son las cantidades básicas presentes 
 
   = 129*〖10〗^(-11)
   
-  **(17) Sume los números siguientes y exprese cada resultado en notación de ingeniería: **
+  **(17) Sume los números siguientes y exprese cada resultado en notación de ingeniería:**
   
  (a) (2.5*〖10〗^(-3) )+(4.6*〖10〗^(-3) )
     		
@@ -107,7 +213,7 @@ El voltaje, la corriente y la resistencia son las cantidades básicas presentes 
   
   =(15)(〖10〗^5)
   
-**(19) Divida los números siguientes y exprese cada resultado en notación de ingeniería: **
+**(19) Divida los números siguientes y exprese cada resultado en notación de ingeniería:**
 
 (a) 50÷(2.2*〖10〗^3)
 
@@ -155,7 +261,7 @@ El voltaje, la corriente y la resistencia son las cantidades básicas presentes 
     
     =350 nA  
 
-**(25) Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10: **
+**(25) Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10:**
 
 a) 7.5 pA
 
@@ -175,7 +281,7 @@ a) 7.5 pA
 
    =28*〖10〗^(-8)  W  
 
-***(27) Realice las conversiones indicadas: ***
+***(27) Realice las conversiones indicadas:***
 
 (a) 5 mA a μA
 
@@ -211,7 +317,7 @@ a) 7.5 pA
 
 10 MV=10000 kW
 
-**(29) Sume las siguientes cantidades: **
+**(29) Sume las siguientes cantidades:**
 
 (a) 50 mA + 680 μA
 
@@ -237,7 +343,65 @@ c) 0.02 μF + 3300 pF
 
 **4.2. Ejercicios del Capítulo 2**
 
-**(25) Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento. **
+***(3) Cuántos coulomb de carca poseen***
+
+50*〖10〗^31
+
+50*〖10〗^31*1C/(6,24*〖10〗^18 )=8.01282*〖10〗^13
+
+***(5) Determine el voltaje en cada uno de los siguientes casos.***
+
+10J/C*1V/(1 J/C)=10V
+
+5J/2C*1V/(1 J/C)=2,5V
+
+100J/25C*1V/(1 J/C)=4V
+
+***(7) ¿Cuál es el voltaje de una batería que utiliza 800 J de energía para mover 40 C de carga a través de un resistor?***
+
+800J/40C*1V/(1 J/C)=20V
+
+***(9) Si un resistor con una corriente de 2 A a través de él convierte 1000 J de energía eléctrica en energía calorífica en 15 s, ¿cuál es el voltaje a través del resistor?***
+
+1000J/(2A*15s)=33,3V
+
+***(11) Seis décimos de coulomb pasan por un punto en 3 s. ¿Cuál es la corriente en amperes?***
+
+0,6C/3s=0,2A
+
+***(13) ¿Cuántos coulombs pasan por un punto en 0,1 s cuando la corriente es de 1,5 A?***
+
+0,1s*1.5A=0.15C
+
+***(15) Determine la conductancia para cada uno de los siguientes valores de resistencia.***
+
+1/5Ω=0,2s
+
+1/25Ω=0,04s
+
+1/100Ω=0,01s
+
+***(17) Enliste cuatro fuentes de voltaje comunes.***
+
+- Fuente de potencia de CD
+
+- Celda solar
+
+- Generador
+
+- Baterías
+
+***(19) ¿Cómo difiere una fuente electrónica de potencia de las demás fuentes de voltaje?***
+
+Una fuente de potencia convierte la potencia AC en DC, con el uso de elementos como puentes rectificador, transformador, regulador, la mayoría suministra voltaje. 
+
+***(21) Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas.***
+
+a) Rojo 2, violeta 7, naranja kΩ, oro ∓5% → 27 kΩ, tolerancia ∓ 5%
+
+b) Café 1, gris 8, rojo 100 kΩ, plata ∓10% → 1.8 kΩ, tolerancia ∓ 10%
+
+**(25) Determine las bandas de color para cada uno de los siguientes resistores de 4 bandas. Asuma que cada resistor tiene una tolerancia del 5 por ciento.**
 
 a) 0.47 Ω
 
@@ -269,7 +433,7 @@ Blanco-Violeta-Azul-Plateado-Marrón
 
 4.7 kΩ
 
-***(31) Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición ***
+***(31) Trace la trayectoria de la corriente en la figura 2-69(a) con el interruptor en la posición***
 [![r2.png](https://i.postimg.cc/rFSTRtQ9/r2.png)](https://postimg.cc/PPr9BNGL)
 
 Se dirige hacia la lámpara 2

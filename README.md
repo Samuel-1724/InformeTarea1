@@ -23,7 +23,9 @@ Es un método conveniente para representar números grandes y pequeños, de tal 
 Es una forma especializada de notación científica. "Esto significa que los dígitos a la izquierda del punto decimal están contenidos en el intervalo de 1 a 999. En este intervalo, nuestras mentes pueden comparar mejor los números." (Khan, 2010).
 Un ejemplo: A la luz le lleva 0.0000333564095 segundos recorrer 10 kilómetros en el vacío. En notación de ingeniería, el tiempo que tarda la luz en recorrer 10 kilómetros en el vacío es 33.3564095 x 10^-6.
 [![Pefijo-M-tricos.png](https://i.postimg.cc/5Ng7CLRw/Pefijo-M-tricos.png)](https://postimg.cc/3dyFM47R)
-
+**3.2. Capítulo 2: Voltaje, Corriente y Resistencia**
+**3.2.1. Estructura Atómica**
+Todo está compuesto de átomos, y todos los átomos se componen de electrónes, protones y neutrones. El átomo es la particula más pequeña de un elemento (de los 109 elementos). Varios ilustres han representado al átomo a lo largo de los años, y todo ese conocimiento actualmente se concentra para darnes una forma fija del mismo.
 
 
 

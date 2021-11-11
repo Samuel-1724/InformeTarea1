@@ -39,6 +39,103 @@ La carga eléctrica es una propiedad elécrica de la materia que existe en virtu
 
 **3.2.4. Voltaje, Corriente y Resistencia**
 El voltaje, la corriente y la resistencia son las cantidades básicas presentes en todos los circuitos eléctricos.
+[![Voltaje-Corriente-y-Resistencia.png](https://i.postimg.cc/nzQLmmfH/Voltaje-Corriente-y-Resistencia.png)](https://postimg.cc/mzBRftrq)
+
+**4. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS DEL PROBLEMA**
+**4.1. Ejercicios del Capítulo 1**
+***(15) Exprese cada número en notación de ingeniería:***
+ (a) 0.000345
+= 345*〖10〗^(-6)
+	(b) 0.025 
+= 25*〖10〗^(-3)
+(c) 0.00000000129
+= 129*〖10〗^(-11)
+ **(17) Sume los números siguientes y exprese cada resultado en notación de ingeniería: **
+	(a) (2.5*〖10〗^(-3) )+(4.6*〖10〗^(-3) )
+    		=(25*〖10〗^(-4) )+(46*〖10〗^(-4))
+=(25+46)(〖10〗^(-4) )
+=71*〖10〗^(-4)
+	(b) (68*〖10〗^6 )+(33*〖10〗^6 )
+    		=(68*〖10〗^6 )+(33*〖10〗^6)
+=(68+33)(〖10〗^6 )
+=101*〖10〗^6
+	(c) (1.25*〖10〗^6 )+(250*〖10〗^3 )
+    		=(125*〖10〗^4 )+(250*〖10〗^3)
+=(〖1250*10〗^3+〖250*10〗^3 )
+=(1250+250)(〖10〗^3)
+=(1500)(〖10〗^3)
+=(15)(〖10〗^5)
+**(19) Divida los números siguientes y exprese cada resultado en notación de ingeniería: **
+(a) 50÷(2.2*〖10〗^3)
+    	=(50)÷(2.2*〖10〗^(-3) )
+    	=(22.7)*〖10〗^(-3)
+(b) (5*〖10〗^3)÷(25*〖10〗^(-6))
+=(0.2)(〖10〗^9)
+=200*〖10〗^6
+(c) (560*〖10〗^3)÷(660*〖10〗^3)
+=(0.848))
+=(848*〖10〗^(-3) )
+***(21) Exprese cada número del problema 15 en amperes por medio de un prefijo métrico.***
+(a) 0.000345
+= 345 μA
+
+(b) 0.025
+= 25 mA
+(c) 0.00000000129
+= 12.9 pA
+23. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+(a) 3*〖10〗^(-6)  F
+= 3 μF
+(b) 3.3*〖10〗^6  Ω
+=3.3 MΩ  
+(c) 350*〖10〗^(-9)  A
+=350 nA  
+25. Exprese cada cantidad convirtiendo el prefijo métrico en una potencia de 10: 
+a) 7.5 pA
+=7.5*〖10〗^(-12)  A  
+=75*〖10〗^(-13)  A  
+(b) 3.3 GHz 
+=3.3*〖10〗^9  Hz  
+=33*〖10〗^8  Hz  
+(c) 280 nW 
+=280*〖10〗^(-9)  W  
+=28*〖10〗^(-8)  W  
+27. Realice las conversiones indicadas: 
+(a) 5 mA a μA
+1mA → 〖10〗^(-3) μA   
+5mA=5*〖10〗^(-3) A  
+ (b) 3200 μW a miliwatts
+1 μW→ 〖10〗^(-3) mW   
+3200 μW=(3200 μW*〖10〗^(-3) mW)/1μW     
+3200 μW=3200*〖10〗^(-3) mW
+3200 μW=32*〖10〗^(-1) mW
+3200 μW=3.2 mW
+
+ (c) 5000 kV a MV
+1 kV→ 〖10〗^(-3) MV   
+5000 kV=(5000 kV*〖10〗^(-3) MV)/1kV
+5000 kV=5 MV
+ (d) 10 MW a kW
+1 MW→ 1*〖10〗^3  kW   
+10 MV=(10 MW*〖10〗^3 kW)/1MW
+10 MV=10000 kW
+29. Sume las siguientes cantidades: 
+(a) 50 mA + 680 μA
+=50*〖10〗^(-3) A+680*〖10〗^(-6) A
+=0.05068 A
+=50.68*〖10〗^4  mA
+ (b) 120 kΩ + 2.2 MΩ 
+=120*〖10〗^3 Ω+2.2*〖10〗^6 Ω
+=2320000 Ω
+=2.32 MΩ
+c) 0.02 μF + 3300 pF
+=0.02*〖10〗^(-6) F+3300*〖10〗^(-12)
+=0.0233 μF
+
+
+
+
+
 
 
 

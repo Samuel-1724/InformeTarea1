@@ -506,3 +506,18 @@ Hemos entendido como funcionan las unidades y las formas de medida, al igual que
 Comprendimos con detalle los conceptos de Voltaje y su función en un circuito, además de ver como fue descubierta gracias a la estructura atómica. También entendimos lo que es Corriente y la manera en que podemos encontrarla en un circuito. Por último visualizamos la Resistencia y como ayuda a mantener en órden un circuito, además de tener un dominio casi total de los anteriores conceptos. Luego de descubrir las características de cada uno, pudimos contrastar sus definiciones y componentes y dejar claro cual es la diferencia con cada una. 
 
 Al final realizamos algunos ejercicios propuestos con los cuales tuvimos una mejor comprensión de los conceptos antes dichos. 
+
+**7. BIBLIOGRAFÍA**
+
+Andarro, L. (12 de Septiembre de 2010). FiscaLab. Obtenido de https://www.fisicalab.com/apartado/conversion-de-unidades
+
+Díaz, L. (23 de Octubre de 2017). Iberbrola. Obtenido de 
+https://www.iberdrola.es/blog/luz/que-es-voltaje-electrico-como-medirlo
+
+Floyd. (2008). Fundamentos de Circuitos. Madrid: Ed4.
+
+Green, T. (3 de Febebro de 2018). GreenFacts. Obtenido de https://www.greenfacts.org/es/glosario/abc/corriente.htm
+
+Lopin, J. (30 de Julio de 2012). Matesfacil. Obtenido de https://www.matesfacil.com/ESO/numeros/notacion_cientifica/teoria-ejemplos-numeros-decimales-exponente-positivo-negativo-base-10-test.html
+
+Parra, J. (12 de Abril de 2013). Concepto. Obtenido de https://concepto.de/resistencia/
